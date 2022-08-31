@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mortenrese
 - 👀 I’m interested in Biochemistry
 - 🌱 I’m currently doing a phd at NMBU 
-- 💞️ I’m looking to collaborate on work related to bochemistry and science in general
+- 💞️ I’m looking to collaborate on work related to biochemistry and science in general
 - 📫 How to reach me 
 
 <!---
